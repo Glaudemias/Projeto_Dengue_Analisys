@@ -11,7 +11,7 @@
 
 # Introduction
 
-These project is the result of module 1, of the Bootcamp in Data Science applied (second edition) proposed by Alura and apoint to some analisys about the numbers of hospitalization and deaths in brazilian states for dengue. The [data](#dt) are available by official website of Brazilian healthcare system [DATASUS](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z-1/s/sistema-unico-de-saude-sus-estrutura-principios-e-como-funciona), the system are entirely free os any cost for anyone.
+This project is the result of module 1, of the Bootcamp in Data Science applied (second edition) proposed by Alura and apoint to some analisys about the numbers of hospitalization and deaths in brazilian states for dengue. The [data](#dt) are available by official website of Brazilian healthcare system [DATASUS](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z-1/s/sistema-unico-de-saude-sus-estrutura-principios-e-como-funciona), the system are entirely free os any cost for anyone.
 
 Based on this we'll analyse some datasets of dengue cases in all the regions and states of the country, seeking to answers and trying to understand the dynamic of the dengue cycles in Braazil.
 ![Dengue2](https://user-images.githubusercontent.com/84024639/120575832-23829c00-c3f8-11eb-837a-9b890cc1ef74.jpg)
